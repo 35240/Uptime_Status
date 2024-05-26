@@ -8748,7 +8748,7 @@
                                 className: "tip",
                                 children: {
                                     normal: "正常",
-                                    error: "无法访问",
+                                    error: "异常",
                                     unknow: "未知"
                                 }[a.status]
                                 })
