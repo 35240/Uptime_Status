@@ -8,7 +8,7 @@ window.Config = {
   SiteUrl: '/',
   
   // 站点备案
-  SiteICP: '京ICP备1234567890号',
+  SiteICP: '浙ICP备2024115105号-6',
 
   // UptimeRobot Api 域名
   // 只需填写域名部分，默认为官网域名
@@ -19,11 +19,11 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'ur1171555-4f6514d169c590e20adcc227',
+    'ur2910206-f489d6fec7accd85c61c482b',
   ],
 
   // 是否显示监测站点的链接
-  ShowLink: false,
+  ShowLink: true,
 
   // 日志天数
   // 虽然免费版说仅保存60天日志，但测试好像API可以获取90天的
