@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '黄鹤云服务状态',
+  SiteName: '服务状态',
 
   // 站点链接
   SiteUrl: '/',
